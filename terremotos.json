@@ -136,7 +136,7 @@
         ]
       },
       "properties": {
-        "mass": "72.900000000000006",
+        "mass": "20",
         "name": "Soheria",
         "reclong": "84.066670",
         "geolocation_address": null,
@@ -156,12 +156,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -15.750,
-          -72.750
+          -72.74828990000003,
+          -15.7725479
         ]
       },
       "properties": {
-        "mass": "80000",
+        "mass": "90",
         "name": "Soko-Banja",
         "reclong": "21.866670",
         "geolocation_address": null,
@@ -256,8 +256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.76667,
-          47.85
+          -5.678,
+          -76.398
         ]
       },
       "properties": {
